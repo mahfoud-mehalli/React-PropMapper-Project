@@ -6,8 +6,8 @@ This repository hosts the source code for the React FlexiView Components project
 
 Features:
 
-Reusable React components
-Dynamic rendering based on props
-Scalable architecture for various datasets
+- Reusable React components
+- Dynamic rendering based on props
+- Scalable architecture for various datasets
 
 🌐 Live Demo: Explore the live demo here!
